@@ -1,0 +1,17 @@
+/*
+
+!.gitignore
+!README.md
+
+**/.DS_Store
+
+!longreads/
+!practice/
+
+longreads/pdf_longreads
+
+*.html
+*.pdf
+
+.idea/
+.ipynb_checkpoints/
